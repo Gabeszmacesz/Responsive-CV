@@ -1,0 +1,1 @@
+Ez egy reszponzív CV oldal.
